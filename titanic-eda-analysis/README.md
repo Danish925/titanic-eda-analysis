@@ -10,7 +10,7 @@ titanic-eda-analysis/
 ├── notebooks/
 │ └── titanic_eda.ipynb # Main EDA notebook
 ├── data/
-│ └── titanic.csv # Titanic dataset (optional if loaded via URL)
+│ └── titanic.csv # Titanic dataset
 ├── images/
 │ ├── 01_missing_values.png
 │ ├── 02_numerical_distribution.png
