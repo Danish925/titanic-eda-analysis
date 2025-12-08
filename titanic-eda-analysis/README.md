@@ -6,19 +6,23 @@ A complete exploratory data analysis (EDA) of the classic Titanic passenger data
 
 ## 📁 Project Structure
 
+## 📁 Project Structure
+
+```bash
 titanic-eda-analysis/
 ├── notebooks/
-│ └── titanic_eda.ipynb # Main EDA notebook
+│   └── titanic_eda.ipynb      # Main EDA notebook
 ├── data/
-│ └── titanic.csv # Titanic dataset
+│   └── titanic.csv            # Titanic dataset (optional if loaded via URL)
 ├── images/
-│ ├── 01_missing_values.png
-│ ├── 02_numerical_distribution.png
-│ ├── 03_categorical_distribution.png
-│ ├── 04_survival_analysis.png
-│ ├── 05_correlation_heatmap.png
-│ └── 06_family_analysis.png
-├── README.md # Project documentation
+│   ├── 01_missing_values.png
+│   ├── 02_numerical_distribution.png
+│   ├── 03_categorical_distribution.png
+│   ├── 04_survival_analysis.png
+│   ├── 05_correlation_heatmap.png
+│   └── 06_family_analysis.png
+├── README.md                  # Project documentation
+└── .gitignore
 
 
 
