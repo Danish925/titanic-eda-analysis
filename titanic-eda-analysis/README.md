@@ -19,7 +19,7 @@ titanic-eda-analysis/
 │ ├── 05_correlation_heatmap.png
 │ └── 06_family_analysis.png
 ├── README.md # Project documentation
-└── .gitignore
+
 
 
 ---
