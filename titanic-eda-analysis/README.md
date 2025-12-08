@@ -6,8 +6,6 @@ A complete exploratory data analysis (EDA) of the classic Titanic passenger data
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 ```
 titanic-eda-analysis/
 ├── notebooks/
